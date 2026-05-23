@@ -58,7 +58,7 @@ I adapt quickly to new technologies and work environments, especially in collabo
 |  **PracticaProfesional** | Configuration and deployment of AD-DS servers for centralized data management in a university environment. | Windows Server • AD-DS |
 |  **RestaurantLocatorBackEnd** | Restaurant locator backend based on geographic positioning and data processing. | Java |
 |  **Mini-Red-Neuronal-Pokemon-BETA** | Experimental neural network inspired by Pokémon battle behaviors and response patterns. | Python • AI |
-|  **BackEnd-TCG-Center** | Backend services for a TCG platform with Docker deployment support. | Laravel • Docker |
+|  **BackEnd-TCG-Center** | Backend services for a TCG platform using embeddings for AI structuration. | Laravel • Docker • AI |
 |  **FrontEnd-TCG-Center** | Frontend integration for TCG Center platform services. | CSS • Frontend |
 
 </div>
